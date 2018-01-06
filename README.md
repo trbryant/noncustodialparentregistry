@@ -2,9 +2,8 @@
 Non-Custodial Parent Registry
 
 #Initial Data Definition 
-#Reference https://www.facebook.com/groups/blackfathersgroup/permalink/10156472712237080/?comment_id=10156472813792080&reply_comment_id=10156473712477080&notif_id=1515230140569167&notif_t=group_comment
-
-# Reference https://dss.sc.gov/resource-library/forms_brochures/files/30248.pdf
+#Based on a discussion regarding non-custodial paternity rights on Facebook we wanted to develop the facility for a national registry.  
+#This project will focus on capturing / storing all pertinent data that is required to centralize and streamline a national database.
 
 DRAFT v1.0
 
